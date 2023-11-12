@@ -1,0 +1,11 @@
+[package]
+name = "p2panda-tools"
+version = "0.1.0"
+edition = "2021"
+description = "A toolset for p2panda."
+repository = "https://github.com/JasonkayZK/p2panda-tools"
+license-file = "LICENSE"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
